@@ -1,0 +1,7 @@
+@import url(https://cdnjs.cloudflare.com/ajax/libs/w3-css/4.1.0/w3.css);
+canvas, body {
+    background-color: #000000;
+    position: absolute;
+    top: 0;
+    left: 0;
+}

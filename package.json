@@ -1,0 +1,26 @@
+{
+  "name": "nicksknacks",
+  "version": "1.0.0",
+  "description": "static site",
+  "main": "index.js",
+  "dependencies": {
+    "nodejs": "^16.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "cd C:\\Winginx\\nodejs\\node_modules\\npm && npm run-script nicksknacks"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/contactnickgould/nicksknacks.git"
+  },
+  "keywords": [
+    "nicksknacks"
+  ],
+  "author": "nick g",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/contactnickgould/nicksknacks/issues"
+  },
+  "homepage": "https://github.com/contactnickgould/nicksknacks#readme"
+}
